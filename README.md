@@ -48,14 +48,14 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Cross-Pollinating Communities: We All Win by [Chris Ball](https://twitter.com/cball_)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=DDnN3Qnd3tw
 - Slides: https://speakerdeck.com/cball/cross-pollinating-communities-we-all-win
 - Links:
     + [Announcing Amber.js](http://yehudakatz.com/2011/12/08/announcing-amber-js/)
 
 #### \<select\>ing Good Ember Patterns by [Brenna O'Brien](https://twitter.com/brnnbrn)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=yvvst_639oY
 - Slides: http://talks.brennaobrien.com/ember-select/selecting-good-ember-patterns.pdf
 - Links:
     + [ember-ted-select](https://github.com/tedconf/ember-ted-select)
@@ -67,7 +67,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Building Desktop Apps with Ember and Electron by [Felix Rieseberg](https://twitter.com/felixrieseberg)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=_uA5LZk2vmQ
 - Slides: https://speakerdeck.com/felixrieseberg/emberconf-2016-building-desktop-apps-with-ember-and-electron
 - Links:
     + [ember-electron](https://github.com/felixrieseberg/ember-electron)
@@ -76,19 +76,19 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### How I Learned to Love Ember by [Ju Liu](https://twitter.com/arkh4m)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=m2YD-wA5sAw
 - Slides: https://speakerdeck.com/arkham/how-i-learned-to-love-ember
 
 #### Building Mobile Applications with Ember by [Alex Blom](https://twitter.com/alexblom)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=Ry639hvWKbM
 - Slides: http://www.slideshare.net/AlexBlom/ember-conf-2016-building-mobile-apps-with-ember
 - Links:
     + [ember-cordova](https://github.com/isleofcode/ember-cordova)
 
 #### Living Style Guide Driven Development by [Chris LoPresto](https://twitter.com/chrislopresto)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=Z1lL_Zo62h0
 - Slides: http://chrislopresto.com/presentations/living-style-guide-driven-development?c=false&h=0&ph=900&pw=1600&v=0
 - Links:
     + [ember-freestyle](https://github.com/chrislopresto/ember-freestyle)
@@ -96,17 +96,17 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Warp Speed Memory Management by [Kelly Senna](https://twitter.com/simplysenna)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=5goUZF45VCk
 - Slides: https://speakerdeck.com/ksenna/emberconf-2016-warp-speed-memory-management
 
 #### Debugging Ember With Empathy by [Vaidehi Joshi](https://twitter.com/vaidehijoshi)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=CctE59nvXyw
 - Slides: http://slides.com/vaidehijoshi/debugging-ember-empathy#/
 
 #### Dissecting an Ember CLI Build by [Estelle DeBlois](https://twitter.com/edeblois)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=hNwgp9alwKg
 - Slides: https://speakerdeck.com/brzpegasus/dissecting-an-ember-cli-build
 - Links:
     + [broccoli-concat](https://github.com/ember-cli/broccoli-concat)
@@ -117,7 +117,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Ember at Scale by [Chad Hietala](https://twitter.com/chadhietala)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=xvzM-v9xaEw
 - Slides: [Ember At Scale](http://www.slideshare.net/chadhietala/ember-at-scale)
 - Links:
     + [ember-prefetch](https://github.com/nickiaconis/ember-prefetch)
@@ -128,7 +128,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### You're Building a Distributed System! by [Mike Pack](https://twitter.com/mikepack_)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=-ecg0wPakWI
 - Slides: http://www.slideshare.net/mikepack/youre-building-a-distributed-system
 - Links:
     + [CouchDB](http://couchdb.apache.org/)
@@ -139,7 +139,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### The Tale of Two Teams by [Ray Tiley](https://twitter.com/raytiley)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=82hCVrgqlrM
 - Slides: https://speakerdeck.com/raytiley/a-tale-of-two-teams
 
 ## Day 2
@@ -156,7 +156,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Ember CLI, The Next Generation by [Stefan Penner](https://twitter.com/stefanpenner)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=UMo9DHrRccI
 - Slides: TBA
 - Links:
     + [Bash on Microsoft](http://techcrunch.com/2016/03/30/be-very-afraid-hell-has-frozen-over-bash-is-coming-to-windows-10/)
@@ -167,7 +167,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Compose Yourself with Ember and D3 by [Ivan Vanderbyl](https://twitter.com/ivanderbyl)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=SOfwqwqWhMU
 - Slides: https://speakerdeck.com/ivanvanderbyl/building-ambitious-data-visualisations
 - Links:
     + [d3-shape](https://github.com/d3/d3-shape)
@@ -183,7 +183,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Idiomatic Ember: Sweet Spot of Performance and Productivity by [Lauren Tan](https://twitter.com/sugarpirate_)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=lP9ap-AKBAM
 - Slides: http://bit.ly/idiomatic-ember
 - Links:
     + [decorators proposal](https://github.com/wycats/javascript-decorators)
@@ -202,7 +202,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Immutability is for UI, You, and I by [Charles Lowell](https://twitter.com/cowboyd)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=r2Cq1mUlRk4
 - Slides: https://speakerdeck.com/cowboyd/immutability-is-for-ui-you-and-i
 - Links:
     + [om](https://github.com/omcljs/om)
@@ -219,7 +219,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### How to Build a Compiler by [James Kyle](https://twitter.com/thejameskyle)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=Tar4WgAfMr4
 - Slides: TBA
 - Links:
     + [The super tiny compiler](https://github.com/thejameskyle/the-super-tiny-compiler)
@@ -231,7 +231,7 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### The Future of Ember Templating by [Godfrey Chan](https://twitter.com/chancancode) & [Yehuda Katz](https://twitter.com/wycats)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=dpx9P1cz37k
 - Slides: https://speakerdeck.com/chancancode/the-future-of-ember-templating
 - Links:
     + [Glimmer guide](https://github.com/tildeio/glimmer/blob/master/guides/01-introduction.md)
@@ -257,10 +257,10 @@ A collection of links that cover what happened during EmberConf 2016. There is a
 
 #### Ember Between Design and Development by [Lisa Gringl](https://twitter.com/kringal) & [Francesco Novy](https://twitter.com/_fnovy)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=mIpwlxdqLcU
 - Slides: http://slides.com/lisagringl/ember-between-design-development#/
 
 #### Closing Keynote: Reversing the River by [Oren Teich](https://twitter.com/teich)
 
-- Video: TBA
+- Video: https://www.youtube.com/watch?v=EZT9ndgOE6U
 - Slides: TBA
